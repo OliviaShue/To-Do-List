@@ -53,3 +53,8 @@ li:hover {
   transform: scale(1.1);
   transition: transform 0.3s ease;
 }
+
+#title{
+  border: 5px solid #37c0fb;
+  border-radius: 10px;
+}
